@@ -1,4 +1,4 @@
-# Web3Storage-UseCases-Chainlink
+# UseCases-Chainlink
 
 ## Getting Started
 1. First, git clone this project.
